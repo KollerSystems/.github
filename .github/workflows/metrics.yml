@@ -28,6 +28,7 @@ jobs:
           base_hireable: yes
           plugin_activity: yes
           plugin_activity_limit: 4
+          plugin_activity_skipped: .github
           plugin_achievements: yes
           plugin_achievements_limit: 3
           plugin_repositories: yes
@@ -38,9 +39,7 @@ jobs:
           plugin_followup: yes
           plugin_followup_indepth: yes
           plugin_habits: yes
-          plugin_habits_skipped: Koller-Database
           plugin_habits_charts: yes
           plugin_languages: yes
-          plugin_languages_ignored: SQL
           plugin_languages_indepth: no
           
