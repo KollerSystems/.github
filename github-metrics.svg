@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1605" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1581" class="">
 
   <defs><style/></defs>
   <style data-optimizable="true">/* SVG global context */
@@ -1795,17 +1795,17 @@
               </mask>
               <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
               
-                <rect mask="url(#issues-bar)" x="0" y="0" width="78.57142857142857" height="8" fill="#238636"/>
+                <rect mask="url(#issues-bar)" x="0" y="0" width="76.22047244094487" height="8" fill="#238636"/>
               
-                <rect mask="url(#issues-bar)" x="78.57142857142857" y="0" width="0" height="8" fill="#56d364"/>
+                <rect mask="url(#issues-bar)" x="76.22047244094487" y="0" width="0" height="8" fill="#56d364"/>
               
-                <rect mask="url(#issues-bar)" x="78.57142857142857" y="0" width="0" height="8" fill="#8B949E"/>
+                <rect mask="url(#issues-bar)" x="76.22047244094487" y="0" width="0" height="8" fill="#8B949E"/>
               
-                <rect mask="url(#issues-bar)" x="78.57142857142857" y="0" width="0" height="8" fill="#c9d1d9"/>
+                <rect mask="url(#issues-bar)" x="76.22047244094487" y="0" width="0" height="8" fill="#c9d1d9"/>
               
-                <rect mask="url(#issues-bar)" x="78.57142857142857" y="0" width="137.93650793650792" height="8" fill="#8957e5"/>
+                <rect mask="url(#issues-bar)" x="76.22047244094487" y="0" width="140.31496062992125" height="8" fill="#8957e5"/>
               
-                <rect mask="url(#issues-bar)" x="216.5079365079365" y="0" width="3.492063492063492" height="8" fill="#d2a8ff"/>
+                <rect mask="url(#issues-bar)" x="216.53543307086613" y="0" width="3.4645669291338583" height="8" fill="#d2a8ff"/>
               
                 <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
               
@@ -1821,11 +1821,11 @@
             <div class="followup legend field fill-width">
               <div class="field">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#238636" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/><path fill="#238636" fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/></svg>
-                <span class="no-wrap">45 <small>open</small></span>
+                <span class="no-wrap">44 <small>open</small></span>
               </div>
               <div class="field">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#8957e5" d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/><path fill="#8957e5" fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/></svg>
-                <span class="no-wrap">81 <small>closed</small></span>
+                <span class="no-wrap">83 <small>closed</small></span>
               </div>
               <div class="field">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#8B949E" d="M6.749.097a8.054 8.054 0 012.502 0 .75.75 0 11-.233 1.482 6.554 6.554 0 00-2.036 0A.75.75 0 016.749.097zM4.345 1.693A.75.75 0 014.18 2.74a6.542 6.542 0 00-1.44 1.44.75.75 0 01-1.212-.883 8.042 8.042 0 011.769-1.77.75.75 0 011.048.166zm7.31 0a.75.75 0 011.048-.165 8.04 8.04 0 011.77 1.769.75.75 0 11-1.214.883 6.542 6.542 0 00-1.439-1.44.75.75 0 01-.165-1.047zM.955 6.125a.75.75 0 01.624.857 6.554 6.554 0 000 2.036.75.75 0 01-1.482.233 8.054 8.054 0 010-2.502.75.75 0 01.858-.624zm14.09 0a.75.75 0 01.858.624 8.057 8.057 0 010 2.502.75.75 0 01-1.482-.233 6.55 6.55 0 000-2.036.75.75 0 01.624-.857zm-13.352 5.53a.75.75 0 011.048.165 6.542 6.542 0 001.439 1.44.75.75 0 01-.883 1.212 8.04 8.04 0 01-1.77-1.769.75.75 0 01.166-1.048zm12.614 0a.75.75 0 01.165 1.048 8.038 8.038 0 01-1.769 1.77.75.75 0 11-.883-1.214 6.543 6.543 0 001.44-1.439.75.75 0 011.047-.165zm-8.182 3.39a.75.75 0 01.857-.624 6.55 6.55 0 002.036 0 .75.75 0 01.233 1.482 8.057 8.057 0 01-2.502 0 .75.75 0 01-.624-.858z"/></svg>
@@ -1965,21 +1965,21 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="239.74407625436308" height="8" fill="#A97BFF"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="239.71297535713504" height="8" fill="#A97BFF"/>
             
-              <rect mask="url(#languages-bar)" x="239.74407625436308" y="0" width="75.6137333405833" height="8" fill="#F05138"/>
+              <rect mask="url(#languages-bar)" x="239.71297535713504" y="0" width="75.62441026091155" height="8" fill="#F05138"/>
             
-              <rect mask="url(#languages-bar)" x="315.3578095949464" y="0" width="74.6364953671773" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="315.3373856180466" y="0" width="74.64703429812819" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="389.9943049621237" y="0" width="24.29184541167874" height="8" fill="#178600"/>
+              <rect mask="url(#languages-bar)" x="389.9844199161748" y="0" width="24.295275504158344" height="8" fill="#178600"/>
             
-              <rect mask="url(#languages-bar)" x="414.2861503738024" y="0" width="22.736689876092385" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="414.27969542033316" y="0" width="22.739900375238637" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="437.02284024989484" y="0" width="12.01471742786524" height="8" fill="#e38c00"/>
+              <rect mask="url(#languages-bar)" x="437.0195957955718" y="0" width="12.01641394746659" height="8" fill="#e38c00"/>
             
-              <rect mask="url(#languages-bar)" x="449.03755767776005" y="0" width="6.605022889854915" height="8" fill="#b07219"/>
+              <rect mask="url(#languages-bar)" x="449.03600974303833" y="0" width="6.605955541901649" height="8" fill="#b07219"/>
             
-              <rect mask="url(#languages-bar)" x="455.64258056761497" y="0" width="4.3574194323850195" height="8" fill="#e34c26"/>
+              <rect mask="url(#languages-bar)" x="455.64196528494" y="0" width="4.358034715060016" height="8" fill="#e34c26"/>
             
           </svg>
         
@@ -2069,7 +2069,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/></svg>
       Recent coding habits
       
-        <small class="h-details">(computed from last 27 commits)</small>
+        <small class="h-details">(computed from last 28 commits)</small>
       
     </h2>
     
@@ -2240,8 +2240,8 @@
                 </div>
               
                 <div class="entry">
-                  <span class="value">2</span>
-                  <div class="bar" style="height: 7.6923076923076925px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                  <span class="value">3</span>
+                  <div class="bar" style="height: 11.538461538461538px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                   23
                 </div>
               
@@ -2276,8 +2276,8 @@
                   </div>
                 
                   <div class="entry">
-                    <span class="value">4</span>
-                    <div class="bar" style="height: 40px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                    <span class="value">5</span>
+                    <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                     Wed
                   </div>
                 
@@ -2404,68 +2404,6 @@
               <section class="activity">
                 
                 
-                  <div class="field">
-                    
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/></svg>
-                    
-                    <div class="content">
-                      <div class="user">Marci599</div> commented on <span class="issue">#38 Használt és már működő felületeknél findViewById helyett binding használata</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    <div>opened by Marci599 in <span class="repo">KollerSystems/Koller-Android</span></div>
-                    <div class="comment">Statikus RecyclerViewAdaptert-t elfelejtettem szerintem💀
-</div>
-                  </div>
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                  <div class="field">
-                    
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 1.5a6.491 6.491 0 00-5.285 2.715l1.358 1.358A.25.25 0 013.896 6H.25A.25.25 0 010 5.75V2.104a.25.25 0 01.427-.177l1.216 1.216a8 8 0 0114.315 4.03.748.748 0 01-.668.83.75.75 0 01-.824-.676A6.501 6.501 0 008 1.5zM.712 8.004a.75.75 0 01.822.67 6.501 6.501 0 0011.751 3.111l-1.358-1.358a.25.25 0 01.177-.427h3.646a.25.25 0 01.25.25v3.646a.25.25 0 01-.427.177l-1.216-1.216A8 8 0 01.042 8.827a.75.75 0 01.67-.823zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/></svg>
-                    
-                    <div class="content">
-                      <div class="user">Marci599</div> reopened <span class="issue">#38 Használt és már működő felületeknél findViewById helyett binding használata</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    <div>opened by Marci599 in <span class="repo">KollerSystems/Koller-Android</span></div>
-                  </div>
-                
-                
-                
-                
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
                 
                 
                 
@@ -2485,13 +2423,13 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#3bdb2b3</div>
-                        <div class="message">recycler adapterek findViewById helyett viewBinding-ot használnak</div>
+                        <div class="sha">#9b0eaa6</div>
+                        <div class="message">binding használata néhány statikus RecyclerView Adapter-nél</div>
                       </div>
                     
                       <div class="commit">
-                        <div class="sha">#e20afa0</div>
-                        <div class="message">backstack-ben való hátranavigálás felülírása a fragmentmanagerről (ismét)</div>
+                        <div class="sha">#3334eda</div>
+                        <div class="message">SuperCoolRecyclerView tapadós címke és refresh fix</div>
                       </div>
                     
                   </div>
@@ -2516,6 +2454,66 @@
                     
                     <div class="content">
                       <div class="user">Marci599</div> closed <span class="issue">#38 Használt és már működő felületeknél findViewById helyett binding használata</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    <div>opened by Marci599 in <span class="repo">KollerSystems/Koller-Android</span></div>
+                  </div>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                  <div class="field">
+                    
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/><path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/></svg>
+                    
+                    <div class="content">
+                      <div class="user">Marci599</div> closed <span class="issue">#41 SuperCoolRecyclerView tapadós címe és swipe to refresh elromlott</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    <div>opened by Marci599 in <span class="repo">KollerSystems/Koller-Android</span></div>
+                  </div>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                  <div class="field">
+                    
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/></svg>
+                    
+                    <div class="content">
+                      <div class="user">Marci599</div> opened <span class="issue">#41 SuperCoolRecyclerView tapadós címe elromlott</span>
                     </div>
                   </div>
                   <div class="details">
@@ -2621,7 +2619,7 @@
                   <span class="prefix"></span> Developers
                   
                     <span class="gh">
-                      ranked 10.5m out of 140m users
+                      ranked 10.6m out of 141m users
                     </span>
                   
                   
@@ -2693,7 +2691,7 @@
       
         <footer>
           
-          <span>Last updated 24 Jul 2024, 03:09:16 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 25 Jul 2024, 03:08:40 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
