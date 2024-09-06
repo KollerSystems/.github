@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1605" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1565" class="">
 
   <defs><style/></defs>
   <style data-optimizable="true">/* SVG global context */
@@ -1795,17 +1795,17 @@
               </mask>
               <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
               
-                <rect mask="url(#issues-bar)" x="0" y="0" width="75.38461538461539" height="8" fill="#238636"/>
+                <rect mask="url(#issues-bar)" x="0" y="0" width="74.86111111111111" height="8" fill="#238636"/>
               
-                <rect mask="url(#issues-bar)" x="75.38461538461539" y="0" width="0" height="8" fill="#56d364"/>
+                <rect mask="url(#issues-bar)" x="74.86111111111111" y="0" width="0" height="8" fill="#56d364"/>
               
-                <rect mask="url(#issues-bar)" x="75.38461538461539" y="0" width="0" height="8" fill="#8B949E"/>
+                <rect mask="url(#issues-bar)" x="74.86111111111111" y="0" width="0" height="8" fill="#8B949E"/>
               
-                <rect mask="url(#issues-bar)" x="75.38461538461539" y="0" width="0" height="8" fill="#c9d1d9"/>
+                <rect mask="url(#issues-bar)" x="74.86111111111111" y="0" width="0" height="8" fill="#c9d1d9"/>
               
-                <rect mask="url(#issues-bar)" x="75.38461538461539" y="0" width="141.53846153846155" height="8" fill="#8957e5"/>
+                <rect mask="url(#issues-bar)" x="74.86111111111111" y="0" width="142.08333333333334" height="8" fill="#8957e5"/>
               
-                <rect mask="url(#issues-bar)" x="216.92307692307693" y="0" width="3.076923076923077" height="8" fill="#d2a8ff"/>
+                <rect mask="url(#issues-bar)" x="216.94444444444446" y="0" width="3.0555555555555554" height="8" fill="#d2a8ff"/>
               
                 <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
               
@@ -1825,7 +1825,7 @@
               </div>
               <div class="field">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#8957e5" d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/><path fill="#8957e5" fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/></svg>
-                <span class="no-wrap">94 <small>closed</small></span>
+                <span class="no-wrap">95 <small>closed</small></span>
               </div>
               <div class="field">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#8B949E" d="M6.749.097a8.054 8.054 0 012.502 0 .75.75 0 11-.233 1.482 6.554 6.554 0 00-2.036 0A.75.75 0 016.749.097zM4.345 1.693A.75.75 0 014.18 2.74a6.542 6.542 0 00-1.44 1.44.75.75 0 01-1.212-.883 8.042 8.042 0 011.769-1.77.75.75 0 011.048.166zm7.31 0a.75.75 0 011.048-.165 8.04 8.04 0 011.77 1.769.75.75 0 11-1.214.883 6.542 6.542 0 00-1.439-1.44.75.75 0 01-.165-1.047zM.955 6.125a.75.75 0 01.624.857 6.554 6.554 0 000 2.036.75.75 0 01-1.482.233 8.054 8.054 0 010-2.502.75.75 0 01.858-.624zm14.09 0a.75.75 0 01.858.624 8.057 8.057 0 010 2.502.75.75 0 01-1.482-.233 6.55 6.55 0 000-2.036.75.75 0 01.624-.857zm-13.352 5.53a.75.75 0 011.048.165 6.542 6.542 0 001.439 1.44.75.75 0 01-.883 1.212 8.04 8.04 0 01-1.77-1.769.75.75 0 01.166-1.048zm12.614 0a.75.75 0 01.165 1.048 8.038 8.038 0 01-1.769 1.77.75.75 0 11-.883-1.214 6.543 6.543 0 001.44-1.439.75.75 0 011.047-.165zm-8.182 3.39a.75.75 0 01.857-.624 6.55 6.55 0 002.036 0 .75.75 0 01.233 1.482 8.057 8.057 0 01-2.502 0 .75.75 0 01-.624-.858z"/></svg>
@@ -1965,21 +1965,21 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="252.4647316346846" height="8" fill="#A97BFF"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="254.05423259979284" height="8" fill="#A97BFF"/>
             
-              <rect mask="url(#languages-bar)" x="252.4647316346846" y="0" width="70.54513220463885" height="8" fill="#F05138"/>
+              <rect mask="url(#languages-bar)" x="254.05423259979284" y="0" width="70.0048309989393" height="8" fill="#F05138"/>
             
-              <rect mask="url(#languages-bar)" x="323.0098638393235" y="0" width="69.8303220276985" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="324.0590635987321" y="0" width="69.29549551299998" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="392.840185867022" y="0" width="22.66349471653143" height="8" fill="#178600"/>
+              <rect mask="url(#languages-bar)" x="393.3545591117321" y="0" width="22.489916283292605" height="8" fill="#178600"/>
             
-              <rect mask="url(#languages-bar)" x="415.50368058355343" y="0" width="21.212585628858694" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="415.84447539502474" y="0" width="21.050119626838452" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="436.7162662124121" y="0" width="11.209337138961498" height="8" fill="#e38c00"/>
+              <rect mask="url(#languages-bar)" x="436.89459502186315" y="0" width="11.123485455337105" height="8" fill="#e38c00"/>
             
-              <rect mask="url(#languages-bar)" x="447.9256033513736" y="0" width="6.077524098900053" height="8" fill="#b07219"/>
+              <rect mask="url(#languages-bar)" x="448.0180804772003" y="0" width="6.030976683143876" height="8" fill="#b07219"/>
             
-              <rect mask="url(#languages-bar)" x="454.00312745027367" y="0" width="5.996872549726371" height="8" fill="#dea584"/>
+              <rect mask="url(#languages-bar)" x="454.04905716034415" y="0" width="5.950942839655878" height="8" fill="#dea584"/>
             
           </svg>
         
@@ -2081,7 +2081,7 @@
             <li>Mostly pushes code around 03:00</li>
           
           
-            <li>Mostly active on Monday</li>
+            <li>Mostly active on Thursday</li>
           
         </ul>
       </div>
@@ -2102,8 +2102,8 @@
 
               
                 <div class="entry">
-                  <span class="value"></span>
-                  <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                  <span class="value">1</span>
+                  <div class="bar" style="height: 3.8461538461538463px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                   00
                 </div>
               
@@ -2192,8 +2192,8 @@
                 </div>
               
                 <div class="entry">
-                  <span class="value">1</span>
-                  <div class="bar" style="height: 3.8461538461538463px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                  <span class="value"></span>
+                  <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                   15
                 </div>
               
@@ -2222,14 +2222,14 @@
                 </div>
               
                 <div class="entry">
-                  <span class="value">1</span>
-                  <div class="bar" style="height: 3.8461538461538463px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                  <span class="value">2</span>
+                  <div class="bar" style="height: 7.6923076923076925px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                   20
                 </div>
               
                 <div class="entry">
-                  <span class="value">4</span>
-                  <div class="bar" style="height: 15.384615384615385px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                  <span class="value">3</span>
+                  <div class="bar" style="height: 11.538461538461538px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                   21
                 </div>
               
@@ -2259,43 +2259,43 @@
                 
                   <div class="entry">
                     <span class="value">3</span>
-                    <div class="bar" style="height: 37.5px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                    <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                     Sun
                   </div>
                 
                   <div class="entry">
                     <span class="value">4</span>
-                    <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                    <div class="bar" style="height: 40px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                     Mon
                   </div>
                 
                   <div class="entry">
                     <span class="value">3</span>
-                    <div class="bar" style="height: 37.5px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                    <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                     Tue
                   </div>
                 
                   <div class="entry">
                     <span class="value">3</span>
-                    <div class="bar" style="height: 37.5px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                    <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                     Wed
                   </div>
                 
                   <div class="entry">
-                    <span class="value">4</span>
+                    <span class="value">5</span>
                     <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                     Thu
                   </div>
                 
                   <div class="entry">
-                    <span class="value">4</span>
-                    <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                    <span class="value">3</span>
+                    <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                     Fri
                   </div>
                 
                   <div class="entry">
                     <span class="value">3</span>
-                    <div class="bar" style="height: 37.5px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                    <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                     Sat
                   </div>
                 
@@ -2423,8 +2423,8 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#825e380</div>
-                        <div class="message">Részlet nézet lekérési állapot UI fejlesztése</div>
+                        <div class="sha">#ab98488</div>
+                        <div class="message">optimalizálások</div>
                       </div>
                     
                   </div>
@@ -2440,22 +2440,20 @@
               <section class="activity">
                 
                 
+                
+                
+                
                   <div class="field">
                     
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/></svg>
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/></svg>
                     
                     <div class="content">
-                      <div class="user">Marci599</div> commented on <span class="issue">#48 részlet felület friss adatok lekérésekor az állapotot jelölő UI nem egyértelmjű / megbízható</span>
+                      <div class="user">Marci599</div> opened <span class="issue">#52 gyorsítótár logikájának újragondolása</span>
                     </div>
                   </div>
                   <div class="details">
                     <div>opened by Marci599 in <span class="repo">KollerSystems/Koller-Android</span></div>
-                    <div class="comment">825e38025d8e42e85e679e02687ae704ebb6ed6f
-</div>
                   </div>
-                
-                
-                
                 
                 
                 
@@ -2480,7 +2478,7 @@
                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/><path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/></svg>
                     
                     <div class="content">
-                      <div class="user">Marci599</div> closed <span class="issue">#48 részlet felület friss adatok lekérésekor az állapotot jelölő UI nem egyértelmjű / megbízható</span>
+                      <div class="user">Marci599</div> closed <span class="issue">#51 Szobanézetnél ágyak megjelenítése a megfelelő pozícióban</span>
                     </div>
                   </div>
                   <div class="details">
@@ -2505,27 +2503,21 @@
                 
                 
                 
-                
-                
-                
-                
                   <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/></svg>
+                    
                     <div class="content">
-                      <div class="user">Marci599</div> pushed 1 commit in <span class="repo">KollerSystems/Koller-Android</span>
+                      <div class="user">Marci599</div> opened <span class="issue">#51 Szobanézetnél ágyak megjelenítése a megfelelő pozícióban</span>
                     </div>
                   </div>
                   <div class="details">
-                    
-                      <div>on branch <span class="code">master</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#cde3043</div>
-                        <div class="message">tanár app fix</div>
-                      </div>
-                    
+                    <div>opened by Marci599 in <span class="repo">KollerSystems/Koller-Android</span></div>
                   </div>
+                
+                
+                
+                
                 
                 
                 
@@ -2622,7 +2614,7 @@
                   <span class="prefix"></span> Developers
                   
                     <span class="gh">
-                      ranked 10.7m out of 143m users
+                      ranked 10.8m out of 143m users
                     </span>
                   
                   
@@ -2694,7 +2686,7 @@
       
         <footer>
           
-          <span>Last updated 5 Sept 2024, 03:13:19 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 6 Sept 2024, 03:13:22 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
