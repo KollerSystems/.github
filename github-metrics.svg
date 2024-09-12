@@ -1795,17 +1795,17 @@
               </mask>
               <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
               
-                <rect mask="url(#issues-bar)" x="0" y="0" width="75.86206896551725" height="8" fill="#238636"/>
+                <rect mask="url(#issues-bar)" x="0" y="0" width="76.84931506849315" height="8" fill="#238636"/>
               
-                <rect mask="url(#issues-bar)" x="75.86206896551725" y="0" width="0" height="8" fill="#56d364"/>
+                <rect mask="url(#issues-bar)" x="76.84931506849315" y="0" width="0" height="8" fill="#56d364"/>
               
-                <rect mask="url(#issues-bar)" x="75.86206896551725" y="0" width="0" height="8" fill="#8B949E"/>
+                <rect mask="url(#issues-bar)" x="76.84931506849315" y="0" width="0" height="8" fill="#8B949E"/>
               
-                <rect mask="url(#issues-bar)" x="75.86206896551725" y="0" width="0" height="8" fill="#c9d1d9"/>
+                <rect mask="url(#issues-bar)" x="76.84931506849315" y="0" width="0" height="8" fill="#c9d1d9"/>
               
-                <rect mask="url(#issues-bar)" x="75.86206896551725" y="0" width="141.10344827586206" height="8" fill="#8957e5"/>
+                <rect mask="url(#issues-bar)" x="76.84931506849315" y="0" width="140.13698630136986" height="8" fill="#8957e5"/>
               
-                <rect mask="url(#issues-bar)" x="216.9655172413793" y="0" width="3.0344827586206895" height="8" fill="#d2a8ff"/>
+                <rect mask="url(#issues-bar)" x="216.986301369863" y="0" width="3.013698630136986" height="8" fill="#d2a8ff"/>
               
                 <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
               
@@ -1821,7 +1821,7 @@
             <div class="followup legend field fill-width">
               <div class="field">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#238636" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/><path fill="#238636" fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/></svg>
-                <span class="no-wrap">50 <small>open</small></span>
+                <span class="no-wrap">51 <small>open</small></span>
               </div>
               <div class="field">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#8957e5" d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/><path fill="#8957e5" fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/></svg>
@@ -1965,21 +1965,21 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="252.8709403708967" height="8" fill="#A97BFF"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="252.70482164542256" height="8" fill="#A97BFF"/>
             
-              <rect mask="url(#languages-bar)" x="252.8709403708967" y="0" width="69.19346897729297" height="8" fill="#F05138"/>
+              <rect mask="url(#languages-bar)" x="252.70482164542256" y="0" width="69.2489625468492" height="8" fill="#F05138"/>
             
-              <rect mask="url(#languages-bar)" x="322.0644093481897" y="0" width="68.49235475073938" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="321.95378419227177" y="0" width="68.5472860225575" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="390.5567640989291" y="0" width="22.229256216238866" height="8" fill="#178600"/>
+              <rect mask="url(#languages-bar)" x="390.50107021482927" y="0" width="22.247084210618276" height="8" fill="#178600"/>
             
-              <rect mask="url(#languages-bar)" x="412.786020315168" y="0" width="20.806146927060237" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="412.7481544254475" y="0" width="20.82283357940994" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="433.5921672422282" y="0" width="10.994563300708482" height="8" fill="#e38c00"/>
+              <rect mask="url(#languages-bar)" x="433.5709880048575" y="0" width="11.003381005215658" height="8" fill="#e38c00"/>
             
-              <rect mask="url(#languages-bar)" x="444.5867305429367" y="0" width="9.452192313198573" height="8" fill="#dea584"/>
+              <rect mask="url(#languages-bar)" x="444.57436901007316" y="0" width="9.459773027091723" height="8" fill="#dea584"/>
             
-              <rect mask="url(#languages-bar)" x="454.0389228561353" y="0" width="5.96107714386477" height="8" fill="#b07219"/>
+              <rect mask="url(#languages-bar)" x="454.0341420371649" y="0" width="5.965857962835152" height="8" fill="#b07219"/>
             
           </svg>
         
@@ -2228,14 +2228,14 @@
                 </div>
               
                 <div class="entry">
-                  <span class="value">1</span>
-                  <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                  <span class="value">2</span>
+                  <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                   21
                 </div>
               
                 <div class="entry">
-                  <span class="value">1</span>
-                  <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                  <span class="value"></span>
+                  <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                   22
                 </div>
               
@@ -2414,6 +2414,72 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
+                      <div class="user">Marci599</div> pushed 1 commit in <span class="repo">KollerSystems/Koller-Android</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">master</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#36ddfd5</div>
+                        <div class="message">gyorsítótár logikájának átvariálása 1/2</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                  <div class="field">
+                    
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/></svg>
+                    
+                    <div class="content">
+                      <div class="user">Marci599</div> opened <span class="issue">#54 Fragmentek közötti konsruktoros adatátadás helyett extra használata</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    <div>opened by Marci599 in <span class="repo">KollerSystems/Koller-Android</span></div>
+                  </div>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
                       <div class="user">Marci599</div> pushed 3 commits in <span class="repo">KollerSystems/Koller-Android</span>
                     </div>
                   </div>
@@ -2468,72 +2534,6 @@ Nyilak azokhoz a nem api által lekért elemekhez, melyek elmélyítik a felhasz
                       <div class="user">d0a1c3f7</div> starred <span class="repo">KollerSystems/Koller-Android</span>
                     </div>
                   </div>
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      <div class="user">Marci599</div> pushed 1 commit in <span class="repo">KollerSystems/Koller-Android</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">master</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#29b2b17</div>
-                        <div class="message">internet hiányára való figyelmeztetés, optimalizálások</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                  <div class="field">
-                    
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/></svg>
-                    
-                    <div class="content">
-                      <div class="user">Marci599</div> opened <span class="issue">#53 Amikor a lista menü refresh error snackbar-t mutat, és olaynkor kreálódik re a fragment üres lesz a lista vizuálisan</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    <div>opened by Marci599 in <span class="repo">KollerSystems/Koller-Android</span></div>
-                  </div>
-                
-                
-                
-                
-                
-                
                 
                 
                 
@@ -2700,7 +2700,7 @@ Nyilak azokhoz a nem api által lekért elemekhez, melyek elmélyítik a felhasz
       
         <footer>
           
-          <span>Last updated 11 Sept 2024, 03:13:32 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 12 Sept 2024, 03:13:45 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
