@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1615" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1616" class="">
 
   <defs><style/></defs>
   <style data-optimizable="true">/* SVG global context */
@@ -1795,17 +1795,17 @@
               </mask>
               <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
               
-                <rect mask="url(#issues-bar)" x="0" y="0" width="76.84931506849315" height="8" fill="#238636"/>
+                <rect mask="url(#issues-bar)" x="0" y="0" width="74.82993197278911" height="8" fill="#238636"/>
               
-                <rect mask="url(#issues-bar)" x="76.84931506849315" y="0" width="0" height="8" fill="#56d364"/>
+                <rect mask="url(#issues-bar)" x="74.82993197278911" y="0" width="0" height="8" fill="#56d364"/>
               
-                <rect mask="url(#issues-bar)" x="76.84931506849315" y="0" width="0" height="8" fill="#8B949E"/>
+                <rect mask="url(#issues-bar)" x="74.82993197278911" y="0" width="0" height="8" fill="#8B949E"/>
               
-                <rect mask="url(#issues-bar)" x="76.84931506849315" y="0" width="0" height="8" fill="#c9d1d9"/>
+                <rect mask="url(#issues-bar)" x="74.82993197278911" y="0" width="0" height="8" fill="#c9d1d9"/>
               
-                <rect mask="url(#issues-bar)" x="76.84931506849315" y="0" width="140.13698630136986" height="8" fill="#8957e5"/>
+                <rect mask="url(#issues-bar)" x="74.82993197278911" y="0" width="142.17687074829934" height="8" fill="#8957e5"/>
               
-                <rect mask="url(#issues-bar)" x="216.986301369863" y="0" width="3.013698630136986" height="8" fill="#d2a8ff"/>
+                <rect mask="url(#issues-bar)" x="217.00680272108843" y="0" width="2.9931972789115644" height="8" fill="#d2a8ff"/>
               
                 <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
               
@@ -1821,11 +1821,11 @@
             <div class="followup legend field fill-width">
               <div class="field">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#238636" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/><path fill="#238636" fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/></svg>
-                <span class="no-wrap">51 <small>open</small></span>
+                <span class="no-wrap">50 <small>open</small></span>
               </div>
               <div class="field">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#8957e5" d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/><path fill="#8957e5" fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/></svg>
-                <span class="no-wrap">95 <small>closed</small></span>
+                <span class="no-wrap">97 <small>closed</small></span>
               </div>
               <div class="field">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#8B949E" d="M6.749.097a8.054 8.054 0 012.502 0 .75.75 0 11-.233 1.482 6.554 6.554 0 00-2.036 0A.75.75 0 016.749.097zM4.345 1.693A.75.75 0 014.18 2.74a6.542 6.542 0 00-1.44 1.44.75.75 0 01-1.212-.883 8.042 8.042 0 011.769-1.77.75.75 0 011.048.166zm7.31 0a.75.75 0 011.048-.165 8.04 8.04 0 011.77 1.769.75.75 0 11-1.214.883 6.542 6.542 0 00-1.439-1.44.75.75 0 01-.165-1.047zM.955 6.125a.75.75 0 01.624.857 6.554 6.554 0 000 2.036.75.75 0 01-1.482.233 8.054 8.054 0 010-2.502.75.75 0 01.858-.624zm14.09 0a.75.75 0 01.858.624 8.057 8.057 0 010 2.502.75.75 0 01-1.482-.233 6.55 6.55 0 000-2.036.75.75 0 01.624-.857zm-13.352 5.53a.75.75 0 011.048.165 6.542 6.542 0 001.439 1.44.75.75 0 01-.883 1.212 8.04 8.04 0 01-1.77-1.769.75.75 0 01.166-1.048zm12.614 0a.75.75 0 01.165 1.048 8.038 8.038 0 01-1.769 1.77.75.75 0 11-.883-1.214 6.543 6.543 0 001.44-1.439.75.75 0 011.047-.165zm-8.182 3.39a.75.75 0 01.857-.624 6.55 6.55 0 002.036 0 .75.75 0 01.233 1.482 8.057 8.057 0 01-2.502 0 .75.75 0 01-.624-.858z"/></svg>
@@ -1965,21 +1965,21 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="253.28831626825894" height="8" fill="#A97BFF"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="253.61542102588734" height="8" fill="#A97BFF"/>
             
-              <rect mask="url(#languages-bar)" x="253.28831626825894" y="0" width="69.05404051535857" height="8" fill="#F05138"/>
+              <rect mask="url(#languages-bar)" x="253.61542102588734" y="0" width="68.96830037379665" height="8" fill="#F05138"/>
             
-              <rect mask="url(#languages-bar)" x="322.3423567836175" y="0" width="68.35433907067146" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="322.58372139968395" y="0" width="68.26466473155553" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="390.6966958542889" y="0" width="22.184463101368546" height="8" fill="#178600"/>
+              <rect mask="url(#languages-bar)" x="390.8483861312395" y="0" width="22.156918022288583" height="8" fill="#178600"/>
             
-              <rect mask="url(#languages-bar)" x="412.8811589556575" y="0" width="20.764221451900536" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="413.00530415352813" y="0" width="20.738439799249623" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="433.64538040755804" y="0" width="10.972408680145069" height="8" fill="#e38c00"/>
+              <rect mask="url(#languages-bar)" x="433.7437439527777" y="0" width="10.893144277152464" height="8" fill="#e38c00"/>
             
-              <rect mask="url(#languages-bar)" x="444.6177890877031" y="0" width="9.433145650910694" height="8" fill="#dea584"/>
+              <rect mask="url(#languages-bar)" x="444.6368882299302" y="0" width="9.421433095968982" height="8" fill="#dea584"/>
             
-              <rect mask="url(#languages-bar)" x="454.0509347386138" y="0" width="5.949065261386178" height="8" fill="#b07219"/>
+              <rect mask="url(#languages-bar)" x="454.0583213258992" y="0" width="5.941678674100834" height="8" fill="#b07219"/>
             
           </svg>
         
@@ -2069,7 +2069,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/></svg>
       Recent coding habits
       
-        <small class="h-details">(computed from last 23 commits)</small>
+        <small class="h-details">(computed from last 26 commits)</small>
       
     </h2>
     
@@ -2222,8 +2222,8 @@
                 </div>
               
                 <div class="entry">
-                  <span class="value">2</span>
-                  <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                  <span class="value">4</span>
+                  <div class="bar" style="height: 14.285714285714285px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                   20
                 </div>
               
@@ -2240,8 +2240,8 @@
                 </div>
               
                 <div class="entry">
-                  <span class="value"></span>
-                  <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                  <span class="value">1</span>
+                  <div class="bar" style="height: 3.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                   23
                 </div>
               
@@ -2294,8 +2294,8 @@
                   </div>
                 
                   <div class="entry">
-                    <span class="value">2</span>
-                    <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                    <span class="value">5</span>
+                    <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                     Sat
                   </div>
                 
@@ -2423,49 +2423,13 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#d0f2d38</div>
-                        <div class="message">Stringes akármi javítása</div>
+                        <div class="sha">#f5f32e7</div>
+                        <div class="message">Optimalizálások, UI változtatások</div>
                       </div>
                     
                       <div class="commit">
-                        <div class="sha">#b249116</div>
-                        <div class="message">gyorsítótár logikájának átvariálása 3/4</div>
-                      </div>
-                    
-                  </div>
-                
-                
-                
-                
-                
-              </section>
-            </div>
-          
-            <div class="row fill-width">
-              <section class="activity">
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                  <div class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-                    <div class="content">
-                      <div class="user">Marci599</div> pushed 1 commit in <span class="repo">KollerSystems/Koller-Android</span>
-                    </div>
-                  </div>
-                  <div class="details">
-                    
-                      <div>on branch <span class="code">master</span></div>
-                    
-                    
-                      <div class="commit">
-                        <div class="sha">#d45e0a8</div>
-                        <div class="message">gyorsitótár logikájának átvariálása 2/3</div>
+                        <div class="sha">#d581dee</div>
+                        <div class="message">gyorsítótár logikájának átvariálása 4/4?!</div>
                       </div>
                     
                   </div>
@@ -2491,7 +2455,7 @@
                   <div class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
                     <div class="content">
-                      <div class="user">Marci599</div> pushed 1 commit in <span class="repo">KollerSystems/Koller-Android</span>
+                      <div class="user">lolfail</div> pushed 1 commit in <span class="repo">KollerSystems/Koller-Database</span>
                     </div>
                   </div>
                   <div class="details">
@@ -2500,8 +2464,44 @@
                     
                     
                       <div class="commit">
-                        <div class="sha">#36ddfd5</div>
-                        <div class="message">gyorsítótár logikájának átvariálása 1/2</div>
+                        <div class="sha">#eeb7481</div>
+                        <div class="message">♻️ boolean-re átállás</div>
+                      </div>
+                    
+                  </div>
+                
+                
+                
+                
+                
+              </section>
+            </div>
+          
+            <div class="row fill-width">
+              <section class="activity">
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                  <div class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+                    <div class="content">
+                      <div class="user">lolfail</div> pushed 1 commit in <span class="repo">KollerSystems/Koller-Server</span>
+                    </div>
+                  </div>
+                  <div class="details">
+                    
+                      <div>on branch <span class="code">master</span></div>
+                    
+                    
+                      <div class="commit">
+                        <div class="sha">#da80ef7</div>
+                        <div class="message">🗃️AB boolean átállás szerveren</div>
                       </div>
                     
                   </div>
@@ -2525,7 +2525,7 @@
                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/></svg>
                     
                     <div class="content">
-                      <div class="user">Marci599</div> opened <span class="issue">#54 Fragmentek közötti konsruktoros adatátadás helyett extra használata</span>
+                      <div class="user">Marci599</div> opened <span class="issue">#55 különböző user-ekenek külön mentés fájl</span>
                     </div>
                   </div>
                   <div class="details">
@@ -2703,7 +2703,7 @@
       
         <footer>
           
-          <span>Last updated 14 Sept 2024, 03:13:04 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 15 Sept 2024, 03:21:34 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
