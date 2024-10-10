@@ -1687,9 +1687,9 @@
       </h1>
       <div class="row">
         <section>
-          <div class="field cakeday">
+          <div class="field ">
             
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M4.75 1.5a1.25 1.25 0 100 2.5h2.309c-.233-.818-.542-1.401-.878-1.793-.43-.502-.915-.707-1.431-.707zM2 2.75c0 .45.108.875.3 1.25h-.55A1.75 1.75 0 000 5.75v2c0 .698.409 1.3 1 1.582v4.918c0 .966.784 1.75 1.75 1.75h10.5A1.75 1.75 0 0015 14.25V9.332c.591-.281 1-.884 1-1.582v-2A1.75 1.75 0 0014.25 4h-.55a2.75 2.75 0 00-2.45-4c-.984 0-1.874.42-2.57 1.23A5.086 5.086 0 008 2.274a5.086 5.086 0 00-.68-1.042C6.623.42 5.733 0 4.75 0A2.75 2.75 0 002 2.75zM8.941 4h2.309a1.25 1.25 0 100-2.5c-.516 0-1 .205-1.43.707-.337.392-.646.975-.879 1.793zm-1.84 1.5H1.75a.25.25 0 00-.25.25v2c0 .138.112.25.25.25h5.5V5.5h-.149zm1.649 0V8h5.5a.25.25 0 00.25-.25v-2a.25.25 0 00-.25-.25h-5.5zm0 4h4.75v4.75a.25.25 0 01-.25.25h-4.5v-5zm-1.5 0v5h-4.5a.25.25 0 01-.25-.25V9.5h4.75z"/></svg>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/></svg>
               Joined GitHub 2 years ago
             
           </div>
@@ -1965,21 +1965,21 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="256.1168385452243" height="8" fill="#A97BFF"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="256.24210163520087" height="8" fill="#A97BFF"/>
             
-              <rect mask="url(#languages-bar)" x="256.1168385452243" y="0" width="66.02838911750496" height="8" fill="#F05138"/>
+              <rect mask="url(#languages-bar)" x="256.24210163520087" y="0" width="65.98782215754605" height="8" fill="#F05138"/>
             
-              <rect mask="url(#languages-bar)" x="322.1452276627293" y="0" width="64.80065974709694" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="322.22992379274694" y="0" width="64.7608470876575" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="386.94588740982624" y="0" width="24.804041783982807" height="8" fill="#178600"/>
+              <rect mask="url(#languages-bar)" x="386.9907708804044" y="0" width="24.788802512158696" height="8" fill="#178600"/>
             
-              <rect mask="url(#languages-bar)" x="411.74992919380907" y="0" width="19.85442247138597" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="411.7795733925631" y="0" width="19.842224179527438" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="431.604351665195" y="0" width="12.014810989120837" height="8" fill="#dea584"/>
+              <rect mask="url(#languages-bar)" x="431.62179757209054" y="0" width="12.007429249798951" height="8" fill="#dea584"/>
             
-              <rect mask="url(#languages-bar)" x="443.61916265431586" y="0" width="10.692434566749412" height="8" fill="#e38c00"/>
+              <rect mask="url(#languages-bar)" x="443.6292268218895" y="0" width="10.685865277830965" height="8" fill="#e38c00"/>
             
-              <rect mask="url(#languages-bar)" x="454.31159722106526" y="0" width="5.6884027789347416" height="8" fill="#b07219"/>
+              <rect mask="url(#languages-bar)" x="454.31509209972046" y="0" width="5.684907900279554" height="8" fill="#b07219"/>
             
           </svg>
         
@@ -2613,7 +2613,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                     <circle class="gauge-base" r="25" cx="28" cy="28"/>
                     
-                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="77.5 155"/>
+                      <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="77.71218343600273 155"/>
                     
                   </svg>
                   <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)"><g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd"><path d="M46 44.557v1a2 2 0 01-2 2H2a2 2 0 01-2-2v-1" stroke="#79B8FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M.75 40.993l.701.561a2.323 2.323 0 002.903 0l1.675-1.34a3 3 0 013.748 0l1.282 1.026a3 3 0 003.71.03l1.4-1.085a3 3 0 013.75.061l1.103.913a3 3 0 003.787.031l1.22-.976a3 3 0 013.748 0l1.282 1.026a3 3 0 003.71.03l1.4-1.085a3 3 0 013.75.061l1.429 1.182a2.427 2.427 0 003.103-.008l.832-.695A2 2 0 0046 39.191v-1.634a2 2 0 00-2-2H2a2 2 0 00-2 2v1.875a2 2 0 00.75 1.561z" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M42 31.609v.948m-38 0v-.992m25.04-15.008H35a2 2 0 012 2v1m-28 0v-1a2 2 0 012-2h6.007" stroke="#79B8FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M22 8.557h2a1 1 0 011 1v6a1 1 0 01-1 1h-2a1 1 0 01-1-1v-6a1 1 0 011-1z" stroke="#2088FF" stroke-width="2" stroke-linejoin="round"/><path d="M4.7 10.557c.316 1.122.572 1.372 1.71 1.678-1.136.314-1.39.566-1.7 1.69-.317-1.121-.573-1.372-1.71-1.679 1.135-.313 1.389-.566 1.7-1.689zm35-8c.316 1.122.572 1.372 1.71 1.678-1.136.314-1.39.566-1.7 1.69-.317-1.121-.573-1.372-1.71-1.679 1.135-.313 1.389-.566 1.7-1.689z" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M23 5.557a2 2 0 002-2C25 2.452 24.433 0 22.273 0c-.463 0 .21 1.424-.502 1.979A2 2 0 0023 5.557z" stroke="#2088FF" stroke-width="2"/><path d="M4.78 27.982l1.346 1.076a3 3 0 003.748 0l1.252-1.002a3 3 0 013.748 0l1.282 1.026a3 3 0 003.711.03l1.4-1.085a3 3 0 013.75.061l1.102.913a3 3 0 003.787.031l1.22-.976a3 3 0 013.748 0l1.281 1.025a3 3 0 003.712.029l1.358-1.053a2 2 0 00.775-1.58v-.97a1.95 1.95 0 00-1.95-1.95H5.942a1.912 1.912 0 00-1.912 1.912v.951a2 2 0 00.75 1.562z" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><circle stroke="#79B8FF" cx="16.5" cy="2.057" r="1"/><circle stroke="#79B8FF" cx="14.5" cy="12.057" r="1"/><circle stroke="#79B8FF" cx="31.5" cy="9.057" r="1"/></g></svg>
@@ -2696,7 +2696,7 @@
       
         <footer>
           
-          <span>Last updated 9 Oct 2024, 03:16:59 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 10 Oct 2024, 03:16:54 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
