@@ -1,50 +1,136 @@
-# Funkcionális specifikációk
-## 1. Bevezetés
-- Projekt leírása: A Koller egy fejlett, automatizált digitális rendszer, melyben minden olyan funkció megtalálható, ami egy kollégium összhangos működéséhez szükséges. A rendszer célja, hogy megkönnyítse a tanárok és a tanulók élétét, nyomon kövesse a diákok mozgását, kezelje a kimenőket, jelenléteket, szobaértékeléseket és menza adatokat, valamint statisztikai elemzéseket biztosítson. A rendszer elérhető weben, valamint Android és iOS platformokon.
-- Rendszer célcsoportjai: Kollégiumi tanárok, tanulók
-- Érintett rendszerek:
-  - NFC beléptető rendszer (Mifare Classic NFC technológia)
-  - Szerver
-  - Felhasználói felületek
-  - PDF-ből JSON-ba alakító menza menüparser
+# Funkcionális Specifikáció
 
-## 2. Funkciók
-- Kimenők kezelése
-  - Egy tanár képes egyszeri vagy többször használatos kimenőt rögzíteni egy adott időszakra, ezzel tovább szabályozva a kollégiumból való ki- és belépést.
-  - A rendszer automatikusan nyomon követi a kimenőket, és késés esetén azt a kimenőhöz igazítja.
-- Ki- és belépések követése
-  - Az NFC biléta használatával a felhasználók ki- és beléphetnek a kollégiumból, amit a portás a saját asztali gépén is lát.
-  - A rendszer minden ki- és belépést rögzít, valamint a késéseket automatikusan elkönyveli.
-  - Portásnak és tanároknak jogosultsága van törölni áthaladást.
-  - Portás beengedhet könyvelésen kívűl is felhasználókat.
-- Szobaértékelések kezelése
-  - A szobák tisztasági szintje értékelhető különböző kritériumok alapján, amely automatikusan vagy manuálisan egy 1-től 5-ig terjedő skálán véglegesíthető.
-- Dícséretek és figyelmeztetések könyvelése
-  - A rendszer lehetőséget biztosít különböző szintű dícséretek és figyelmeztetések rögzítésére, amelyek a diákok pontozási rendszerét is befolyásolják.
-- Ügyeletes tanárok kezelése
-  - A tanárok képesek saját magukat ügyeletesnek beállítani.
-  - Több tanár is lehet egyszerre ügyeletes, és az ügyeleti rend nyomon követhető.
-- Menza menedzsment
-  - A tanárok képesek feltölteni étkezési adatokat (reggeli, ebéd, vacsora) és azok allergén tartalmait.
-  - Egy menüparser segítségével a harmadik féltől száramazó PDF-ből automatikusan feltölthetőek ezek az adatok.
-- Programok és szakkörök kezelése
-  - A rendszer támogatja a kötelező alapprogramok és szakkörök létrehozását, könyvelését és jelenlétének nyomon követését.
-- Pontozó rendszer
-  - A diákok pontszámait különböző tényezők (dícséretek, figyelmeztetések, késések, szobaértékelések) alapján számítja ki a rendszer.
-- Felhasználók kezelése
-  - A tanárok kezelhetik a felhasználókat, valamint létrehozhat új felhasználókat.
-- Helyiségek kezelése
-  - A rendszer lehetőséget biztosít szobák, tantermek és egyéb helyiségek létrehozására és kezelésére.
-- Osztályok és csoportok kezelése
-  - A rendszer támogatja az osztályok és csoportok létrehozását, kezelését és böngészését.
+## Jelentkezés folyamata
 
-## 3. Felhasználói interfész és platformok
-- Webes felület.
-- Mobilalkalmazás: Android és iOS alkalmazás, amely értesítéseket, összefoglalókat és NFC-alapú gyors keresést biztosít.
+Két féle jelentkezés van:
+- Új tanuló => Mindent meg kell adni
+- Régi => Adategyeztetés
 
-## 4. Külső interfészek és integrációk
-- NFC integráció: Mifare Classic NFC biléta technológia a ki- és beléptetési rendszerhez, mobilos gyors kereséshez.
-- PDF-ből JSON parser: Harmadik fél által biztosított PDF menük automatikus átalakítása JSON formátumba.
+1. Diák jelentkezik az adott kollégiumba
+2. Tanár látja a jelentkezett diákokat (személyes adatok stb.)
+3. Felveszi/elutasítja => lesz hozzáférése/nem
+4. Kollégium-specifikus adatait beviszik a rendszerbe (osztály, szoba)
+5. Személyes megjelenésekor kap bilétát (belépéshez) + kép készülhet róla
+6. Tanév végén "kirúgja a rendszer" -> véget ér a jelentkezés (adatkezelés miatt)
 
-# Repository
-![Metrics](/github-metrics.svg)
+## Leszerelés folyamata
+
+Okai lehetnek:
+- Jogviszonyát szeretné megszüntetni a diák
+- Tanár szünteti meg a jogviszonyát
+- Lejár a jogviszonya (1 tanév)
+
+1. Tanár beadja a leszerelési igényt (KELL egyeztetni tanárral, appból nem lehet)
+  - könyvtári tartozás
+  - sportszertári
+  - szobai kártérítési
+  - raktári, értkezési
+  - kártérítési
+2. Tanuló jóváhagyja
+3. Leadja bilétáját
+4. Portás kiengedi
+5. Hozzáférése a rendszerhez korlátozódik, státusza leszerté válik, de adatai megmaradnak (szobájából helye felszabadul azért)
+  - TODO!
+
+## Portai közlekedés
+
+Kapu feltételezése
+
+1. biléta használata
+2. kapun való átlépés
+3. portás látja a mozgását a rendszerben
+  - név
+  - profilkép
+  - csoport
+  - kimenési jogosultsága
+  - kilépés időpontja
+  - irány
+  - mozgás szabályossága
+    - korán megy el
+    - kesőn jön be
+
+## Kimenők rendszere
+
+A kimenő feljogosít védett időszakon belül közlekedni, bizonyos időintervallumban.
+
+Ennek két kezdete is lehet:
+- Diák kérvényezi, majd tanár jóváhagyja
+- Tanár létrehozza magától
+
+Tulajdonságai:
+- frekvenciája (ismétlődés: soha, bizonyos napokon egyszer, hetente, kéthetente vagy négyhetente)
+- időbeli kezdete
+- időbeli vége
+- ismétlődés lejárta (ha alkalmazható)
+- oka/célja
+- kinek/kiknek szól
+
+## Késések
+
+Akkor jön létre, és arra az időre csak, amikor a diáknak bent kellett volna lennie védett időszakban.
+
+```
+o: szabadidő
+v: védett
+[: kimenetele
+]: bejövetele
+
+o[oo]ovvvooovvvoooo -> nincs késés
+oo[oov]vvooovvvoooo -> 1db v késés
+oo[oovvvo]oovvvoooo -> 3db v késés (hiszen szabadideje is volt közben, csak védettről késett)
+ooo[ovvvooovvvo]ooo -> 6db v késés (csak védett időket számolja)
+```
+
+Természetesen a kimenő feljogosítja a védett időszakban nem bent lenni, így ez kivonódik, azonban ha letelik a megengedett ideje, a rendszer késést onnantól kezd számolni.
+
+Késést nevelőtanár igazolhat, azonban nincs joga magától beírni. Az igazolás egyelőre bináris, tehát két fajtája van: aktív és igazolt.
+
+## Kulcsfelvétel folyamata
+
+Két fajta kulcs:
+- jogosult személy (portás) engedélyezi, elutasítja a kérelmet (fontosabb kulcsok)
+- önmagát jogosítja a tanuló (becsületkasszás) => értesíti a felelős illetőt
+
+Tulajdonságai:
+- Helyiség neve
+- időintervallum (kezdet egyből, lezárta miután visszavitte); ezt automatikusan beírja fel- és leadáskor (azonban ezt a diáknak az alkalmazásban jelezni kell)
+- kulcsfelvevő azonosítója
+
+Hasonlóan a kimenőkhöz, a kulcsfelvevőknek is lehet engedélyük bizonyos "védett" kulcsokat felvenni (110 például). Ezek engedélye is lehet bizonyos időkre szűkítve (stúdió csak szakkörös napokon például)
+Tárolandó:
+- engedélyezett azonosítója
+- engedélyezett kulcs
+- engedély kezdete időben
+- vége időben
+- frekvenciája (periodikusan ismétlődhet)
+
+## Alapprogram és kötelezően választható (min 1) szakkör
+
+Alapprogram: Egy kollégiumi osztály jár rá, mindig más témakör. Ez a témakör időnként változik, független az osztálytól, évfolyamtól.
+Kollégiumi osztály: különböző iskolák azonos évfolyamaiból ollózzák össze (9A -> 9B, de nem lehet 9.-esből 10.-es)
+
+Szakkör: Egyet legalább fel kell venni, ez egy ismétlődő témájú program. Olyasmi mint egy sima tantárgy.
+
+TODO!
+
+## Dícséretek és figyelmeztetők rendszere
+
+Tulajdonság bármelyikre:
+- jellege, azaz aki feladja annak titulusa (szaktanári, nevelőtanári, igazgatói stb.)
+- ki adta
+- kinek adta
+- miért
+- mikor
+
+## Helyiségek tulajdonsága
+
+- telephely?
+- épület
+- szárny
+- emelet
+- szoba
+
+Ezek lehetnek specifikusak:
+- iroda
+- tanulói szoba
+- semmilyen
