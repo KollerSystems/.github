@@ -1,5 +1,9 @@
 # Funkcionális Specifikáció
 
+## Bevezetés
+- A Koller egy fejlett, automatizált digitális rendszer, melyben minden olyan funkció megtalálható, ami egy kollégium összhangos működéséhez szükséges. A rendszer célja, hogy megkönnyítse a tanárok és a tanulók élétét, nyomon kövesse a diákok mozgását, kezelje a kimenőket, jelenléteket, szobaértékeléseket és menza adatokat, valamint statisztikai elemzéseket biztosítson. A rendszer elérhető weben, valamint Android és iOS platformokon.
+- Rendszer célcsoportjai: Kollégiumi dolgozók, tanulók
+
 ## Jelentkezés folyamata
 
 Két féle jelentkezés van:
@@ -41,7 +45,8 @@ Ki/beléptetőkapu feltételezése
 
 1. biléta használata
 2. kapun való átlépés
-3. portás látja a mozgását a rendszerben
+3. Mozgás rögzítése
+4. portás látja a legfrissebb mozgásokat a rendszerben
   - név
   - profilkép
   - csoport
@@ -52,6 +57,8 @@ Ki/beléptetőkapu feltételezése
     - korán megy el
     - kesőn jön be
     - kimenővel közlekedett-e
+   
+A portás be- és kiengedhet könyvelésen kívűl is embereket.
 
 ## Kimenők rendszere
 
@@ -108,6 +115,11 @@ Tárolandó:
 - vége időben
 - frekvenciája (periodikusan ismétlődhet)
 
+## Szobaértékelés folyamata
+//TODO
+
+## Menza rendszerbe való feltöltésének folyamata
+
 ## Alapprogram és kötelezően választható (min 1) szakkör
 
 Alapprogram: Egy kollégiumi osztály jár rá, mindig más témakör. Ez a témakör időnként változik, független az osztálytól, évfolyamtól.
@@ -145,3 +157,8 @@ Ezek lehetnek specifikusak:
 
 ## Felhasználók tulajdonságai
 //TODO
+
+## Ügyelet rendszere
+
+# Repository
+![Metrics](/github-metrics.svg)
