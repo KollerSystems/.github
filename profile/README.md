@@ -49,18 +49,7 @@ Bármely diákoknak egy összeállított csoportja egy csoportvezető nevelőtan
 
 Akár teljesen automatikus közlekedést könyvelő rendszer.
 
-### Kulcsfelvétel
-
-Lehetőség van:
-- Megnézni, kik vannak épp hozzárendelve egy helyiséghez
-- Kiknél vannak éppen kulcsok
-- Jogosultságot adni a tanulóknak adott kulcsokhoz adott kritériumokkal.
-
-### Kimenő
-
-A kimenő feljogosít védett időszakon belül közlekedni, bizonyos időintervallumban.
-
-### Késés
+#### Késés
 
 Akkor jön létre, és arra az időre csak, amikor a diáknak bent kellett volna lennie védett időszakban.
 
@@ -79,6 +68,21 @@ ooo[ovvvooovvvo]ooo -> 6db v késés (csak védett időket számolja)
 Természetesen a kimenő feljogosítja a védett időszakban nem bent lenni, így ez kivonódik, azonban ha letelik a megengedett ideje, a rendszer késést onnantól kezd számolni.
 
 Késést nevelőtanár igazolhat, azonban nincs joga magától beírni. Az igazolás az adott késésre egyelőre bináris, tehát két fajtája van: aktív és igazolt.
+
+#### Sietés
+
+Tájékoztató jellegű a portásnak és a diáknak, hogy mennyivel korábban ment el a megengedettnél. Következménye nincs, a késésbe lesz majd beleszámítva. Természetesen ha pl 25 percet siet, de 5 perc múlva már vissza is jön, akkor csak 5 percet késett.
+
+#### Kimenő
+
+A kimenő feljogosít védett időszakon belül közlekedni, bizonyos időintervallumban.
+
+### Kulcsfelvétel
+
+Lehetőség van:
+- Megnézni, kik vannak épp hozzárendelve egy helyiséghez
+- Kiknél vannak éppen kulcsok
+- Jogosultságot adni a tanulóknak adott kulcsokhoz adott kritériumokkal.
 
 ### Alapprogram és kötelezően választható (min 1) szakkör
 
