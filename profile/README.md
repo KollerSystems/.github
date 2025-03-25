@@ -1,14 +1,15 @@
 # Funkcionális Specifikáció
 
 ## Bevezetés
-- A Koller egy fejlett, automatizált digitális rendszer, melyben minden olyan funkció megtalálható, ami egy kollégium összhangos működéséhez szükséges. A rendszer célja, hogy megkönnyítse a tanárok és a tanulók élétét, nyomon kövesse a diákok mozgását, kezelje a kimenőket, jelenléteket, szobaértékeléseket és menza adatokat, valamint statisztikai elemzéseket biztosítson. A rendszer elérhető weben, valamint Android és iOS platformokon.
-- Rendszer célcsoportjai: Kollégiumi dolgozók, tanulók
+- A Koller egy fejlesztés alatt álló, modern, automatizált digitális rendszer, melyben minden olyan funkció megtalálható, ami egy kollégium összhangos működéséhez szükséges. A rendszer célja, hogy megkönnyítse a tanárok és a tanulók élétét, nyomon kövesse a diákok mozgását, kezelje a kimenőket, jelenléteket, szobaértékeléseket és menza adatokat, valamint statisztikai elemzéseket biztosítson. A rendszer elérhető lesz weben, valamint Android és iOS platformokon.
+- Rendszer célcsoportjai: Kollégiumi dolgozók és tanulók
 
 ## Funkciók
 
 ### Felhasználók
 
 #### Tanulók
+
 - Személyes adatok
 - Kollégiumi adatok
    - Szobaszám
@@ -17,6 +18,7 @@
    - Fokozat
  
 #### Tanárok
+
 - Kollégiumi adatok
    - Irodaszám
    - Csoportszám (ha csoportvezető)
@@ -27,12 +29,11 @@
 - épület
 - szárny
 - emelet
-- szoba
 - megnevezés (113, lány kondi, igazgatói)
 
-Ezek lehetnek akár specifikusak:
-- iroda
+Ezek lehetnek **akár** specifikusak:
 - tanulói szoba
+- iroda
 - terem
 - konyha
 - étkező
@@ -49,29 +50,19 @@ Bármely diákoknak egy összeállított csoportja egy csoportvezető nevelőtan
 
 Akár teljesen automatikus közlekedést könyvelő rendszer.
 
-#### Késés
-
-Akkor jön létre, és arra az időre csak, amikor a diáknak bent kellett volna lennie védett időszakban.
-
-```
-o: szabadidő
-v: védett
-[: kimenetele
-]: bejövetele
-
-o[oo]ovvvooovvvoooo -> nincs késés
-oo[oov]vvooovvvoooo -> 1db v késés
-oo[oovvvo]oovvvoooo -> 3db v késés (hiszen szabadideje is volt közben, csak védettről késett)
-ooo[ovvvooovvvo]ooo -> 6db v késés (csak védett időket számolja)
-```
-
-Természetesen a kimenő feljogosítja a védett időszakban nem bent lenni, így ez kivonódik, azonban ha letelik a megengedett ideje, a rendszer késést onnantól kezd számolni.
-
-Késést nevelőtanár igazolhat, azonban nincs joga magától beírni. Az igazolás az adott késésre egyelőre bináris, tehát két fajtája van: aktív és igazolt.
-
 #### Sietés
 
 Tájékoztató jellegű a portásnak és a diáknak, hogy mennyivel korábban ment el a megengedettnél. Következménye nincs, a késésbe lesz majd beleszámítva. Természetesen ha pl 25 percet siet, de 5 perc múlva már vissza is jön, akkor csak 5 percet késett.
+
+#### Késés (vagy igazolatlan távollét)
+
+Akkor jön létre, és arra az időre csak, amikor a diák igazolatlanul van kint védett időszakban.
+
+Nevelőtanár igazolhatja. Az igazolás az adott késésre egyelőre bináris, tehát két fajtája van: aktív és igazolt.
+
+#### Magyarázó ábra
+![Artboard 1](https://github.com/user-attachments/assets/aae11ec4-c805-4de7-945a-d4cbe46a16ba)
+*A példa óra és perc helyett általános idő hosszal számol*
 
 #### Kimenő
 
@@ -81,6 +72,7 @@ A kimenő feljogosít védett időszakon belül közlekedni, bizonyos időinterv
 
 Lehetőség van:
 - Megnézni, kik vannak épp hozzárendelve egy helyiséghez
+- Forgalmi statisztikák megtekintésére.
 - Kiknél vannak éppen kulcsok
 - Jogosultságot adni a tanulóknak adott kulcsokhoz adott kritériumokkal.
 
@@ -117,9 +109,12 @@ Ha a munkrandben ügyeletes lesz egy tanár és készen is áll az átvételre a
 
 Lehetőség van a rendszerbe feltöltött menza menü böngészésére.
 
-### Statisztika
+### Egyéb összesítő statisztikák
 
 Mindenféle adatoból kiállítható statisztikák egy adott időintervallumon belül.
+
+### Gyors keresés
+Felhasználók beléptető bilétájuk / kártyájuk egy telefonhoz érintésével automatikusan megnyithatják rajta profiljukat, illetve ha helyiségekhez van ragasztva NFC-s matrica, annak az érintzésével is automatikusan megnyithatjuk az adott helyiséget is.
 
 ## Folyamatok
 
