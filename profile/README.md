@@ -12,7 +12,7 @@
 
 - [ ] Személyes adatok
 - [ ] Kollégiumi adatok
-   - [ ] Szobaszám
+   - [x] Szobaszám
    - [x] Csoport
    - [x] Osztály
    - [ ] Fokozat
@@ -25,11 +25,9 @@
  
 ### Helyiségek
 
-- [ ] telephely?
-- [ ] épület
 - [x] szárny
 - [x] emelet
-- [ ] megnevezés (113, lány kondi, igazgatói)
+- [x] megnevezés (113, lány kondi, igazgatói)
 
 Ezek lehetnek **akár** specifikusak:
 - tanulói szoba
@@ -38,23 +36,23 @@ Ezek lehetnek **akár** specifikusak:
 - konyha
 - étkező
 
-### ✅ (Kollégiumi) osztályok
+### (Kollégiumi) osztályok
 
 Különböző iskolák azonos évfolyamaiból állnak (pl.: 9A és 9B néhány tanulója -> 9B kollégiumi osztály. Nem lehet 9.-esből 10.-es)
 
-### ✅ Csoportok
+### Csoportok
 
 Bármely diákoknak egy összeállított csoportja egy csoportvezető nevelőtanárral az élén. Egy szobában csak ugyanolyan csoportban lévő emberek lakhatnak.
 
-### ❌ Portai ki- és belépések
+### Portai ki- és belépések
 
 Akár teljesen automatikus közlekedést könyvelő rendszer.
 
-#### ❌ Sietés
+#### Sietés
 
 Tájékoztató jellegű a portásnak és a diáknak, hogy mennyivel korábban ment el a megengedettnél. Következménye nincs, a késésbe lesz majd beleszámítva. Természetesen ha pl 25 percet siet, de 5 perc múlva már vissza is jön, akkor csak 5 percet késett.
 
-#### ❌ Késés (vagy igazolatlan távollét)
+#### Késés (vagy igazolatlan távollét)
 
 Akkor jön létre, és arra az időre csak, amikor a diák igazolatlanul van kint védett időszakban.
 
@@ -64,11 +62,11 @@ Nevelőtanár igazolhatja. Az igazolás az adott késésre egyelőre bináris, t
 ![Artboard 1](https://github.com/user-attachments/assets/aae11ec4-c805-4de7-945a-d4cbe46a16ba)
 *A példa óra és perc helyett általános idő hosszal számol*
 
-#### ❌ Kimenő
+#### Kimenő
 
 A kimenő feljogosít védett időszakon belül közlekedni, bizonyos időintervallumban.
 
-### ❌ Kulcsfelvétel
+### Kulcsfelvétel
 
 Lehetőség van:
 - Megnézni, kik vannak épp hozzárendelve egy helyiséghez
@@ -76,23 +74,23 @@ Lehetőség van:
 - Kiknél vannak éppen kulcsok
 - Jogosultságot adni a tanulóknak adott kulcsokhoz adott kritériumokkal.
 
-### ✅ Alapprogram és kötelezően választható (min 1) szakkör
+### Alapprogram és kötelezően választható (min 1) szakkör
 
-#### ✅ Alapprogram
+#### Alapprogram
 Több téma van, az adott témát/témákat egy tanár tart minden kollégiumi osztálynak más időpontokban.
 
-#### ✅ Szakkör
+#### Szakkör
 Ezekre mindenki igénye szerint jelentkezik (egyre legalább kötelező). Ez egy adott témakörrel foglalkozó, ismétlődő program, amit egy adott tanár tart. Olyasmi mint egy sima tantárgy.
 
 Tanárok a rendszerben jelölik a jelenlétet.
 
-### ❌ Szobaértékelés
+### Szobaértékelés
 Tanárok értékelhetik a lakószobákat.
 
-### ❌ Létszámozás
+### Létszámozás
 Tanárok létszámozhatják a lakószobákat.
 
-### ❌ Dícséret és figyelmeztető
+### Dícséret és figyelmeztető
 
 Tulajdonság bármelyikre:
 - jellege, azaz aki feladja annak titulusa (szaktanári, nevelőtanári, igazgatói stb.)
@@ -101,17 +99,17 @@ Tulajdonság bármelyikre:
 - miért
 - mikor
 
-### ❌ Ügyelet
+### Ügyelet
 
 Ha a munkrandben ügyeletes lesz egy tanár és készen is áll az átvételre a kollégájától, rendszerben is átveszi.
 
-### ❌ Menza
+### Menza
 
 Lehetőség van a rendszerbe feltöltött menza menü böngészésére.
 
-### ❌ Egyéb összesítő statisztikák
+### Egyéb összesítő statisztikák
 
-Mindenféle adatoból kiállítható statisztikák egy adott időintervallumon belül.
+Mindenféle adatból kiállítható statisztikák egy adott időintervallumon belül.
 
 ### Gyors keresés
 Felhasználók beléptető bilétájuk / kártyájuk egy telefonhoz érintésével automatikusan megnyithatják rajta profiljukat, illetve ha helyiségekhez van ragasztva NFC-s matrica, annak az érintzésével is automatikusan megnyithatjuk az adott helyiséget is.
