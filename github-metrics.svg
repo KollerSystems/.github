@@ -1795,9 +1795,9 @@
               </mask>
               <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
               
-                <rect mask="url(#issues-bar)" x="0" y="0" width="75.97938144329896" height="8" fill="#238636"/>
+                <rect mask="url(#issues-bar)" x="0" y="0" width="72.57731958762886" height="8" fill="#238636"/>
               
-                <rect mask="url(#issues-bar)" x="75.97938144329896" y="0" width="0" height="8" fill="#56d364"/>
+                <rect mask="url(#issues-bar)" x="72.57731958762886" y="0" width="3.4020618556701034" height="8" fill="#56d364"/>
               
                 <rect mask="url(#issues-bar)" x="75.97938144329896" y="0" width="0" height="8" fill="#8B949E"/>
               
@@ -1844,7 +1844,7 @@
             <div class="followup legend field fill-width">
               <div class="field">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#56d364" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/><path fill="#56d364" fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/></svg>
-                <span class="no-wrap">0 <small>open</small></span>
+                <span class="no-wrap">3 <small>open</small></span>
               </div>
               <div class="field">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#d2a8ff" d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/><path fill="#d2a8ff" fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/></svg>
@@ -2268,7 +2268,7 @@
       
         <footer>
           
-          <span>Last updated 6 Dec 2025, 02:27:17 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 7 Dec 2025, 02:48:39 (timezone Europe/Budapest) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
